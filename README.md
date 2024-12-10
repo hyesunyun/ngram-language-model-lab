@@ -6,7 +6,7 @@ You can run these notebooks on [Google Colab](https://colab.research.google.com/
 You won't need to create a virtual environment for Google Colab as it comes with all the packages we need installed.
 
 You can also run them locally:
-
+```
 # clone the repo
 git clone https://github.com/hyesunyun/ngram-language-model-lab.git
 cd ngram-language-model-lab
@@ -20,3 +20,4 @@ pip install -r requirements.txt
 
 # run the server
 jupyter notebook
+```
