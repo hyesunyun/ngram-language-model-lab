@@ -7,7 +7,7 @@ You won't need to create a virtual environment for Google Colab as it comes with
 
 ![Screenshot 2025-01-02 at 9 52 05 AM](https://github.com/user-attachments/assets/fe12a3c3-dc88-401b-9e36-05e2f545be61)
 
-You can also run them locally:
+You can also run them locally (no GPU is needed):
 ```bash
 # clone the repo
 git clone https://github.com/hyesunyun/ngram-language-model-lab.git
