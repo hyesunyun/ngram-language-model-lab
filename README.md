@@ -1,6 +1,6 @@
 # ngram-language-model-lab
 
-Lab for CS6983/CS4973 Research in Human-Centered NLP.
+Lab for CS6983/CS4973 Research in Human-Centered NLP (Northeastern University).
 
 You can run these notebooks on [Google Colab](https://colab.research.google.com/github/hyesunyun/ngram-language-model-lab/blob/main/n_gram_word_prediction.ipynb). 
 You won't need to create a virtual environment for Google Colab as it comes with all the packages we need installed. However, you will need to manually add the data (`en_US.twitter.txt` from data folder) to the files in Google Colab.
